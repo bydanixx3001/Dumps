@@ -1,0 +1,168 @@
+The custom key 0x1848a8d1e4c5 has been added to the default keys
+The custom key 0x16ee1fe134e4 has been added to the default keys
+The custom key 0x5246b8f4acfc has been added to the default keys
+The custom key 0x515a8209843c has been added to the default keys
+The custom key 0x0ef7636aa829 has been added to the default keys
+The custom key 0xe59d0f78c413 has been added to the default keys
+The custom key 0x5af68604dd6b has been added to the default keys
+The custom key 0xb0bcb22dcba3 has been added to the default keys
+The custom key 0x51b3ef60bf56 has been added to the default keys
+The custom key 0x99100225d83b has been added to the default keys
+The custom key 0x63c88f562b97 has been added to the default keys
+The custom key 0xb30b6a5ad434 has been added to the default keys
+The custom key 0xd33e4a4a0041 has been added to the default keys
+The custom key 0x9c0a4cc89d61 has been added to the default keys
+The custom key 0x5204d83d8cd3 has been added to the default keys
+The custom key 0xa662f9dc0d3d has been added to the default keys
+The custom key 0x52f41cbbf64d has been added to the default keys
+The custom key 0x47d62e448640 has been added to the default keys
+The custom key 0x5a69c661d85f has been added to the default keys
+The custom key 0xa1f9d3b5a5a8 has been added to the default keys
+The custom key 0x336c04db9c17 has been added to the default keys
+The custom key 0x6725562251cb has been added to the default keys
+The custom key 0x24d57cb3b25c has been added to the default keys
+The custom key 0x25c72b67bb16 has been added to the default keys
+The custom key 0x6e28ab77f773 has been added to the default keys
+The custom key 0x3fe08a4a4632 has been added to the default keys
+The custom key 0x6e9438141271 has been added to the default keys
+The custom key 0x9ca6479e6b08 has been added to the default keys
+The custom key 0x35559d821f1e has been added to the default keys
+The custom key 0xf497d355f094 has been added to the default keys
+The custom key 0x96f003640860 has been added to the default keys
+The custom key 0x061c19dba3c4 has been added to the default keys
+ATS len = -20
+Found Mifare Classic 1k tag
+ISO/IEC 14443A (106 kbps) target:
+    ATQA (SENS_RES): 00  04  
+* UID size: single
+* bit frame anticollision supported
+       UID (NFCID1): d0  d4  3d  ea  
+      SAK (SEL_RES): 08  
+* Not compliant with ISO/IEC 14443-4
+* Not compliant with ISO/IEC 18092
+
+Fingerprinting based on MIFARE type Identification Procedure:
+* MIFARE Classic 1K
+* MIFARE Plus (4 Byte UID or 4 Byte RID) 2K, Security level 1
+* SmartMX with MIFARE 1K emulation
+Other possible matches based on ATQA & SAK values:
+
+Try to authenticate to all sectors with default keys...
+Symbols: '.' no key found, '/' A key found, '\' B key found, 'x' both keys found
+[Key: 1848a8d1e4c5] -> [/...............]
+[Key: 16ee1fe134e4] -> [//..............]
+[Key: 5246b8f4acfc] -> [///.............]
+[Key: 515a8209843c] -> [////............]
+[Key: 0ef7636aa829] -> [/////...........]
+[Key: e59d0f78c413] -> [//////..........]
+[Key: 5af68604dd6b] -> [///////.........]
+[Key: b0bcb22dcba3] -> [////////........]
+[Key: 51b3ef60bf56] -> [/////////.......]
+[Key: 99100225d83b] -> [//////////......]
+[Key: 63c88f562b97] -> [///////////.....]
+[Key: b30b6a5ad434] -> [////////////....]
+[Key: d33e4a4a0041] -> [/////////////...]
+[Key: 9c0a4cc89d61] -> [//////////////..]
+[Key: 5204d83d8cd3] -> [///////////////.]
+[Key: a662f9dc0d3d] -> [////////////////]
+[Key: 52f41cbbf64d] -> [x///////////////]
+[Key: 47d62e448640] -> [xx//////////////]
+[Key: 5a69c661d85f] -> [xxx/////////////]
+[Key: a1f9d3b5a5a8] -> [xxxx////////////]
+[Key: 336c04db9c17] -> [xxxxx///////////]
+[Key: 6725562251cb] -> [xxxxxx//////////]
+[Key: 24d57cb3b25c] -> [xxxxxxx/////////]
+[Key: 25c72b67bb16] -> [xxxxxxxx////////]
+[Key: 6e28ab77f773] -> [xxxxxxxxx///////]
+[Key: 3fe08a4a4632] -> [xxxxxxxxxx//////]
+[Key: 6e9438141271] -> [xxxxxxxxxxx/////]
+[Key: 9ca6479e6b08] -> [xxxxxxxxxxxx////]
+[Key: 35559d821f1e] -> [xxxxxxxxxxxxx///]
+[Key: f497d355f094] -> [xxxxxxxxxxxxxx//]
+[Key: 96f003640860] -> [xxxxxxxxxxxxxxx/]
+[Key: 061c19dba3c4] -> [xxxxxxxxxxxxxxxx]
+
+Sector 00 - Found   Key A: 1848a8d1e4c5 Found   Key B: 52f41cbbf64d
+Sector 01 - Found   Key A: 16ee1fe134e4 Found   Key B: 47d62e448640
+Sector 02 - Found   Key A: 5246b8f4acfc Found   Key B: 5a69c661d85f
+Sector 03 - Found   Key A: 515a8209843c Found   Key B: a1f9d3b5a5a8
+Sector 04 - Found   Key A: 0ef7636aa829 Found   Key B: 336c04db9c17
+Sector 05 - Found   Key A: e59d0f78c413 Found   Key B: 6725562251cb
+Sector 06 - Found   Key A: 5af68604dd6b Found   Key B: 24d57cb3b25c
+Sector 07 - Found   Key A: b0bcb22dcba3 Found   Key B: 25c72b67bb16
+Sector 08 - Found   Key A: 51b3ef60bf56 Found   Key B: 6e28ab77f773
+Sector 09 - Found   Key A: 99100225d83b Found   Key B: 3fe08a4a4632
+Sector 10 - Found   Key A: 63c88f562b97 Found   Key B: 6e9438141271
+Sector 11 - Found   Key A: b30b6a5ad434 Found   Key B: 9ca6479e6b08
+Sector 12 - Found   Key A: d33e4a4a0041 Found   Key B: 35559d821f1e
+Sector 13 - Found   Key A: 9c0a4cc89d61 Found   Key B: f497d355f094
+Sector 14 - Found   Key A: 5204d83d8cd3 Found   Key B: 96f003640860
+Sector 15 - Found   Key A: a662f9dc0d3d Found   Key B: 061c19dba3c4
+
+We have all sectors encrypted with the default keys..
+
+Auth with all sectors succeeded, dumping keys to a file!
+Block 63, type A, key a662f9dc0d3d :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 62, type A, key a662f9dc0d3d :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 61, type A, key a662f9dc0d3d :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 60, type A, key a662f9dc0d3d :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 59, type A, key 5204d83d8cd3 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 58, type A, key 5204d83d8cd3 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 57, type A, key 5204d83d8cd3 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 56, type A, key 5204d83d8cd3 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 55, type A, key 9c0a4cc89d61 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 54, type A, key 9c0a4cc89d61 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 53, type A, key 9c0a4cc89d61 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 52, type A, key 9c0a4cc89d61 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 51, type A, key d33e4a4a0041 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 50, type A, key d33e4a4a0041 :03  d2  c9  e9  ce  0c  00  29  10  00  08  00  80  21  bd  1e  
+Block 49, type A, key d33e4a4a0041 :06  52  c9  de  15  8c  00  29  10  00  04  00  40  01  8f  29  
+Block 48, type A, key d33e4a4a0041 :04  70  c9  d6  e7  01  00  34  3c  32  10  01  00  34  32  a0  
+Block 47, type A, key b30b6a5ad434 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 46, type A, key b30b6a5ad434 :03  d2  c9  e9  ce  0c  00  29  10  00  08  00  80  21  bd  1e  
+Block 45, type A, key b30b6a5ad434 :08  d2  c9  e8  f1  8c  00  29  10  00  04  00  40  31  55  9f  
+Block 44, type A, key b30b6a5ad434 :03  d2  c9  e5  cd  8c  00  29  10  00  04  00  40  01  52  92  
+Block 43, type A, key 63c88f562b97 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 42, type A, key 63c88f562b97 :08  d2  c9  e4  f0  8c  00  29  10  00  04  00  40  31  54  93  
+Block 41, type A, key 63c88f562b97 :03  d2  c9  e1  cd  8c  00  29  10  00  04  00  40  01  52  96  
+Block 40, type A, key 63c88f562b97 :08  d2  c9  e0  ee  0c  00  29  10  00  04  00  40  31  4a  17  
+Block 39, type A, key 99100225d83b :00  00  00  00  00  00  91  e7  86  00  00  00  00  00  00  00  
+Block 38, type A, key 99100225d83b :05  18  00  00  fa  e7  ff  ff  05  18  00  00  00  ff  00  ff  
+Block 37, type A, key 99100225d83b :05  18  00  00  fa  e7  ff  ff  05  18  00  00  00  ff  00  ff  
+Block 36, type A, key 99100225d83b :60  7e  33  08  00  00  00  00  02  8a  c9  35  a3  c2  9a  60  
+Block 35, type A, key 51b3ef60bf56 :00  00  00  00  00  00  f4  b7  80  00  00  00  00  00  00  00  
+Block 34, type A, key 51b3ef60bf56 :60  7e  33  08  00  00  00  00  02  8a  c9  35  a3  c2  9a  60  
+Block 33, type A, key 51b3ef60bf56 :90  99  56  95  04  13  17  00  a8  90  10  00  59  0c  00  01  
+Block 32, type A, key 51b3ef60bf56 :90  99  56  95  04  13  17  00  a8  90  10  00  59  0c  00  01  
+Block 31, type A, key b0bcb22dcba3 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 30, type A, key b0bcb22dcba3 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 29, type A, key b0bcb22dcba3 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 28, type A, key b0bcb22dcba3 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 27, type A, key 5af68604dd6b :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 26, type A, key 5af68604dd6b :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 25, type A, key 5af68604dd6b :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 24, type A, key 5af68604dd6b :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 23, type A, key e59d0f78c413 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 22, type A, key e59d0f78c413 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 21, type A, key e59d0f78c413 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 20, type A, key e59d0f78c413 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 19, type A, key 0ef7636aa829 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 18, type A, key 0ef7636aa829 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 17, type A, key 0ef7636aa829 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 16, type A, key 0ef7636aa829 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 15, type A, key 515a8209843c :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 14, type A, key 515a8209843c :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 13, type A, key 515a8209843c :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 12, type A, key 515a8209843c :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 11, type A, key 5246b8f4acfc :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 10, type A, key 5246b8f4acfc :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 09, type A, key 5246b8f4acfc :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 08, type A, key 5246b8f4acfc :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 07, type A, key 16ee1fe134e4 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 06, type A, key 16ee1fe134e4 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 05, type A, key 16ee1fe134e4 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 04, type A, key 16ee1fe134e4 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 03, type A, key 1848a8d1e4c5 :00  00  00  00  00  00  f7  87  80  00  00  00  00  00  00  00  
+Block 02, type A, key 1848a8d1e4c5 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 01, type A, key 1848a8d1e4c5 :00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+Block 00, type A, key 1848a8d1e4c5 :d0  d4  3d  ea  d3  88  04  00  c8  48  00  20  00  00  00  23  
